@@ -3,9 +3,9 @@
 
 ## Running your React Native application
 **ios**  
-cd MahjongCalculator
+cd MahjongCalculator  
 react-native run-ios  
 
 **android**  
-cd MahjongCalculator
+cd MahjongCalculator  
 react-native run-android
