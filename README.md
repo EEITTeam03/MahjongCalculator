@@ -2,10 +2,14 @@
 麻將計算機
 
 ## Running your React Native application
-**ios**  
+**ios**
+```
 cd MahjongCalculator  
-react-native run-ios  
+react-native run-ios
+```
 
-**android**  
+**android**
+```
 cd MahjongCalculator  
 react-native run-android
+```
