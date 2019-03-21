@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest",
-    "postinstall": "rndebugger-open"
+    "debug": "open 'rndebugger://set-debugger-loc?host=localhost&port=8081'"
   },
   "dependencies": {
     "react": "16.8.3",
@@ -17,7 +17,6 @@
     "babel-jest": "24.5.0",
     "jest": "24.5.0",
     "metro-react-native-babel-preset": "0.53.1",
-    "react-native-debugger-open": "^0.3.18",
     "react-test-renderer": "16.8.3"
   },
   "jest": {
